@@ -72,6 +72,10 @@ export const DEFAULT_MODELS = [
     name: "gpt-3.5-turbo",
     available: true,
   },
+  {
+    name: "midjourney",
+    available: false,
+  },
 ] as const;
 
 export const CHAT_PAGE_SIZE = 15;
