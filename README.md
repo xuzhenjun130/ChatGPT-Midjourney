@@ -1,3 +1,8 @@
+## 调整内容
+
+私人定制，默认gpt4, 删除多余模型
+
+
 <div align="center">
 
 <h1 align="center">🍭 ChatGPT-Midjourney</h1>
